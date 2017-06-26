@@ -1,6 +1,6 @@
 # SBT OpenShift #
 
-POC extension of the great SBT Native Packager with support for building OpenShift compatible images.
+Learning exercise for SBT plugin development and POC extension of the great SBT Native Packager with support for building OpenShift compatible images.
 
 ## How does it work ##
 
@@ -39,4 +39,10 @@ USER 10001
 CMD ["bin/example"]
 ```
 
-## Developers ##
+## Disclaimer ##
+
+I dont yet know how to correctly write SBT plugins, so buyer beware.
+
+## Bugs and Feedback
+
+For bugs, questions, and discussions please use the [Github Issues](https://github.com/jw3/sbt-openshift/issues).
