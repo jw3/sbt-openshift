@@ -16,5 +16,3 @@ bintrayRepository := {
 enablePlugins(BintrayPlugin)
 
 dependsOn(uri("git://github.com/sbt/sbt-native-packager#v1.2.0"))
-
-resolvers += Resolver.jcenterRepo
