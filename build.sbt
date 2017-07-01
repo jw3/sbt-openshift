@@ -2,7 +2,7 @@ sbtPlugin := true
 
 organization := "com.github.jw3"
 name := "sbt-openshift"
-version := "0.1-SNAPSHOT"
+version := "0.1"
 
 scalaVersion := "2.10.5"
 scalacOptions in Compile ++= Seq("-deprecation", "-target:jvm-1.7")
